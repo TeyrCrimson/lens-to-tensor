@@ -1,0 +1,11 @@
+# Data stays out of the repo; entries point to it.
+data/
+*.npz
+*.bag
+*.db3
+*.mcap
+
+# Python
+__pycache__/
+*.pyc
+.venv/
