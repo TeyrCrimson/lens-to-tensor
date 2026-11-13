@@ -20,6 +20,7 @@ Owner: Teyr. Readers: Visual AI.
 
 ```text
 playbook/   one entry per claim, numbered (see playbook/TEMPLATE.md)
+cameras/    registry of camera models and how much each reports about its ISP
 tools/      capture and measurement scripts that produce entry evidence
 ```
 
